@@ -1,7 +1,7 @@
 {
   "name": "best-react-starter",
   "version": "1.0.0",
-  "description": "The best react starter.",
+  "description": "A very simple yet powerful react starter with HMR and TypeScript supported.",
   "private": true,
   "main": "index.tsx",
   "scripts": {
